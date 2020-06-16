@@ -1,0 +1,12 @@
+table{
+    height: 400px;
+    width: 600px;
+    background: red;
+    border: solid 5px black;
+    margin: auto;
+}
+table td{
+    background-color: lightgoldenrodyellow;
+    border: solid 3px black;
+    border-radius: 10px;
+}
